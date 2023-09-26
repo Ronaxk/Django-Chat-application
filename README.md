@@ -8,7 +8,7 @@ Django Channels
 Redis
 Installation
 Clone the GitHub repository:
-git clone https://github.com/YOUR_USERNAME/django-chat-application.git
+[git clone https://github.com/YOUR_USERNAME/django-chat-application.git](https://github.com/Ronaxk/Django-Chat-application.git)
 Create a virtual environment and activate it:
 python3 -m venv venv
 source venv/bin/activate
